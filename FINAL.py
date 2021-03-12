@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 22 12:58:33 2021
-
-@author: GABRIELLA ROBERT
-"""
-
-
-#FINAL#
 
 import pandas as pd
 import webbrowser
